@@ -1,0 +1,6 @@
+#ifndef ASSIGNMENT1_FILEWATCH_H
+#define ASSIGNMENT1_FILEWATCH_H
+
+void makeAuditRecord();
+
+#endif // ASSIGNMENT1_FILEWATCH_H

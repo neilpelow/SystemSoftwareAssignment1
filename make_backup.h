@@ -1,0 +1,6 @@
+#ifndef ASSIGNMENT1_MAKEBACKUP_H
+#define ASSIGNMENT1_MAKEBACKUP_H
+
+void makeBackup();
+
+#endif //ASSIGNMENT1_MAKEBACKUP_H
